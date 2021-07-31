@@ -1,5 +1,5 @@
-# awesome-github-repos
+## awesome-github-repos
 
-## [courses](./courses.md)
+#### [courses](./courses.md)
 
-## [reinforcement learning](./reinforcement_learning.md)
+#### [reinforcement learning](./reinforcement_learning.md)
