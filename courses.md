@@ -4,3 +4,10 @@
 ### Pytorch
 - https://github.com/AntonioLonga/PytorchGeometricTutorial
 - https://atcold.github.io/pytorch-Deep-Learning/
+
+
+### Bayesian/Causal inference
+- https://github.com/rmcelreath/rethinking
+- https://github.com/pymc-devs/resources/blob/master/Rethinking_2
+- https://github.com/scunning1975/mixtape_learnr/
+- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
