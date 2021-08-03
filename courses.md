@@ -4,6 +4,7 @@
 ### Pytorch
 - https://github.com/AntonioLonga/PytorchGeometricTutorial
 - https://atcold.github.io/pytorch-Deep-Learning/
+- https://github.com/khuangaf/PyTorch-Geometric-YooChoose
 
 
 ### Bayesian/Causal inference
