@@ -1,2 +1,3 @@
 - [research.yandex.com/shifts](https://github.com/yandex-research/shifts)
 - [open catalyst](https://github.com/Open-Catalyst-Project/ocp/tree/tutorials)
+- [minerl](https://github.com/minerllabs/basalt_competition_baseline_submissions)
