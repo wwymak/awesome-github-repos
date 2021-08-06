@@ -12,3 +12,6 @@
 - https://github.com/pymc-devs/resources/blob/master/Rethinking_2
 - https://github.com/scunning1975/mixtape_learnr/
 - https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+### Computing
+- https://github.com/mitmath/18337
