@@ -1,5 +1,7 @@
 ## awesome-github-repos
 
+A very random collection of repos that I find interesting on github.
+
 #### [competitions](./competitions.md)
 
 #### [courses](./courses.md)
