@@ -12,4 +12,6 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [gans](./gans.md)
 
+#### [life hacks](./life_hacks.md)
+
 #### [reinforcement learning](./reinforcement_learning.md)
