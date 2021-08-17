@@ -2,6 +2,8 @@
 
 A very random (and growing) collection of repos that I find interesting on github.
 
+#### [active learning](./active_learning.md)
+
 #### [competitions](./competitions.md)
 
 #### [courses](./courses.md)
