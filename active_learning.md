@@ -1,0 +1,2 @@
+-  https://github.com/modAL-python/modAL
+-  https://baal.readthedocs.io/en/latest/tutorials/label-studio.html
