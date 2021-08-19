@@ -16,4 +16,6 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [life hacks](./life_hacks.md)
 
+#### [MLOps](./mlops.md)
+
 #### [reinforcement learning](./reinforcement_learning.md)
