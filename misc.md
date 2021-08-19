@@ -1,1 +1,2 @@
-[Elo-MMR](https://github.com/EbTech/Elo-MMR)
+- [Elo-MMR](https://github.com/EbTech/Elo-MMR)
+- https://github.com/Global-Policy-Lab/mosaiks-paper#obtaining-raw-data
