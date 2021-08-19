@@ -15,3 +15,4 @@
 
 ### Computing
 - https://github.com/mitmath/18337
+- https://ericmjl.github.io/dl-workshop/
