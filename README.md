@@ -18,4 +18,6 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [MLOps](./mlops.md)
 
+#### [NLP](./nlp.md)
+
 #### [reinforcement learning](./reinforcement_learning.md)
