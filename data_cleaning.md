@@ -4,3 +4,6 @@
 
 **sanity checking**
 - https://github.com/casics/nostril
+
+**pdf extraction**
+- https://github.com/jorisschellekens/borb
