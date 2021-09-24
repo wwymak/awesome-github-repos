@@ -14,6 +14,8 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [gans](./gans.md)
 
+#### [graph NNs](./graph_nn.md)
+
 #### [life hacks](./life_hacks.md)
 
 #### [MLOps](./mlops.md)
