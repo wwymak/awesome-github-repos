@@ -10,6 +10,8 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [data cleaning](./data_cleaning.md)
 
+#### [datasets](./datasets.md)
+
 #### [explainable ai](./explainable_ai.md)
 
 #### [gans](./gans.md)
