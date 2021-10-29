@@ -4,6 +4,8 @@ A very random (and growing) collection of repos that I find interesting on githu
 
 #### [active learning](./active_learning.md)
 
+#### [bayesia/causal reasoning/probabilistic programming](./bayesian.md)
+
 #### [competitions](./competitions.md)
 
 #### [courses](./courses.md)
