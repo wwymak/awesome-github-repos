@@ -1,1 +1,2 @@
 - https://github.com/ploomber/ploomber
+- [google auth helpers](https://github.com/pydata/pydata-google-auth)
